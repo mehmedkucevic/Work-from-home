@@ -1,4 +1,4 @@
-// parni
+// parni brojevi
 
 function extractEvenNumbers(brojevi) {
   const parniBrojevi1 = [];
@@ -20,7 +20,7 @@ const parniBrojevi2 = extractEvenNumbers(brojevi1);
 console.log(parniBrojevi2);
 
 
-// neparni
+// neparni brojevi
 
 function extractOddNumbers(brojevi) {
   const neparni = [];
