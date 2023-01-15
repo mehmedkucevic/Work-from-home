@@ -9,3 +9,13 @@ body{
     border-radius: 16px;
     margin:  100px auto;
 }
+.offcanvas {
+    opacity: 50%;
+    background:#292929 ;
+    color: aliceblue;
+   
+}
+.offcanvas-title{
+    margin: auto;
+}
+
